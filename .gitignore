@@ -1,3 +1,5 @@
 *.png
 *.jpg
 *.model
+*.h5
+*.gz
