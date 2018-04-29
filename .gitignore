@@ -5,6 +5,7 @@
 *.gz
 
 **/graphs/**
+**/.ipynb_checkpoints/**
 *.index
 *.meta
 *.data-00000-of-00001
