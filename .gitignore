@@ -1,11 +1,13 @@
 *.png
 *.jpg
+*.jpeg
 *.model
 *.h5
 *.gz
 
 **/graphs/**
 **/.ipynb_checkpoints/**
+**/dataset/**
 *.index
 *.meta
 *.data-00000-of-00001
