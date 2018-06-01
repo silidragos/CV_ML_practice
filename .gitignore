@@ -6,6 +6,7 @@
 *.gz
 
 **/graphs/**
+**/data/**
 **/.ipynb_checkpoints/**
 **/dataset/**
 *.index
