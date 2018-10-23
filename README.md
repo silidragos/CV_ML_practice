@@ -9,3 +9,8 @@ Examples for learning practical work in ML
 * [Computer Vision Foundation](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos)
 * [Computer Vision Foundation Open Acces](http://openaccess.thecvf.com/menu.py)
 * [European Conference of Computer Vision](http://openaccess.thecvf.com/ECCV2018.py)
+
+# Conferences
+* ISMAR
+* ECCV
+* CVF
