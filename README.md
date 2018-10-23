@@ -1,5 +1,5 @@
-# machine_learning_practice
-Examples for learning practical work in ML
+# Computer vision and Machine Learning practice
+Examples for learning practical work in ML and CV
 
 # Educative Channels
 * [Discover Artificial Intelligence](https://www.youtube.com/channel/UCAHKM2oBfeVnokXWjpbkCew)
